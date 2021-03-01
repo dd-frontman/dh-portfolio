@@ -1,0 +1,37 @@
+/*
+* _main
+* @author den-dev97 Khaustov D. khausden@gmail.com
+* 27.02.2021
+*/
+@import '../styles/title';
+
+.main-page {
+  text-align: center;
+  display: table;
+  height: 100%;
+
+  &__content {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 10rem;
+  }
+
+  &__header {
+    color: #fff;
+    font-size: 3.2rem;
+  }
+
+  &__header-inner {
+    color: #037FFF;
+  }
+
+  &__icon-holder {
+    font-size: 4rem;
+    color: #a4acc4;
+    transition: .5s;
+
+    &:hover {
+      color: #037FFF;
+    }
+  }
+}

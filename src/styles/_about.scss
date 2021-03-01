@@ -1,0 +1,66 @@
+/*
+* _about styles
+* @author den-dev97 Khaustov D. khausden@gmail.com
+* 28.02.2021
+*/
+
+.about-page {
+  &__info {
+    width: 48%;
+  }
+
+  &__info-text {
+    margin-bottom: 1rem;
+  }
+
+  &__info-header {
+    line-height: 1;
+    margin-bottom: 1rem;
+  }
+
+  &__main-info {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5rem;
+  }
+
+  &__header-inner {
+    color: #037FFF;
+  }
+
+  &__table {
+    display: grid;
+    grid-template-columns: .6fr 1fr;
+    margin-bottom: 1rem;
+  }
+
+  &__table-item {
+    margin-bottom: .5rem;
+  }
+
+  &__btn-container {
+    text-align: center;
+  }
+
+  &__skills-wrapper {
+    display: grid;
+    grid-template-columns: .1fr 1fr;
+  }
+
+  &__skills-wrapper:not(:last-child) {
+    margin-bottom: 1rem;
+  }
+
+  &__skills-item {
+    font-size: 3rem;
+    color: #037FFF;
+  }
+
+  &__skills-list {
+    margin: 1rem 0 0 1.3rem;
+  }
+
+  &__list-item {
+    list-style: circle;
+  }
+}

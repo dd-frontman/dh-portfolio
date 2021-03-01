@@ -1,0 +1,44 @@
+/*
+* _title styles
+* @author den-dev97 Khaustov D. khausden@gmail.com
+* 28.02.2021
+*/
+.title {
+  text-transform: uppercase;
+  font-size: 2rem;
+  color: #fff;
+  position: relative;
+  margin-bottom: 6rem;
+
+  &:before{
+    content: "";
+    bottom: -20%;
+    position: absolute;
+    left: 0;
+    background-color: #0381ff38;
+    width: 6rem;
+    height: .4rem;
+    border-radius: 50px;
+
+  }
+  &:after{
+    content: "";
+    bottom: -20%;
+    position: absolute;
+    left: 0;
+    background-color: #037FFF;
+    width: 3rem;
+    height: .4rem;
+    border-radius: 50px;
+  }
+
+  .title-reflection {
+    color: #037FFF;
+    font-size: 4rem;
+    position: absolute;
+    top: 100%;
+    left: 4%;
+    opacity: 10%;
+  }
+}
+

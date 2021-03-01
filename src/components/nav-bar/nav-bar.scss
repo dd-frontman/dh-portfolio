@@ -1,0 +1,78 @@
+/*
+* nav-bar
+* @author den-dev97 Khaustov D. khausden@gmail.com
+* 26.02.2021
+*/
+
+.nav-bar {
+  width: 15%;
+  height: 100%;
+  background-color: #191D2B;
+  position: fixed;
+  border-right: 1px solid #2e344e;
+  border-left: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+
+  &__avatar-container {
+    width: 100%;
+    text-align: center;
+    padding: 1rem 0;
+    border-bottom: 1px solid #2e344e;
+  }
+
+  &__avatar {
+    width: 85%;
+    border-radius: 50%;
+    border: 5px solid #2e344e;
+  }
+
+  .footer {
+    border-top: inherit;
+  }
+
+  &__navigation {
+    display: grid;
+    width: 100%;
+    text-align: center;
+  }
+
+  &__navigation-item {
+    padding: .5rem 0;
+    text-decoration: none;
+    color: inherit;
+    position: relative;
+
+    &:before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: .4rem;
+      height: 100%;
+      background-color: #0381ff33;
+      transform-origin: bottom;
+      transform: scale(0);
+      overflow-x: hidden;
+      transition: transform 0.6s, 0.2s width 0.5s cubic-bezier(1, -0.16, 0.6, 1.35);
+    }
+
+    &:hover:before{
+      width: 100%;
+      transform: scale(1);
+    }
+  }
+
+  .footer {
+    padding: .5rem 0;
+    border-top: 1px solid #2e344e;
+    width: 100%;
+    text-align: center;
+  }
+
+  .active {
+    background-color: #037FFF;
+  }
+}

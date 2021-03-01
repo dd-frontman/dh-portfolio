@@ -1,0 +1,33 @@
+/*
+* _image awesome slider
+* @author den-dev97 Khaustov D. khausden@gmail.com
+* 28.02.2021
+*/
+.aws-btn {
+  text-transform: uppercase;
+  --button-default-border-radius: 10px !important;
+  position: relative;
+}
+
+.awssld {
+  width: 48%;
+  --loader-bar-color: #037FFF;
+  --organic-arrow-color: #a4acc4;
+  --slider-transition-duration: .3s;
+  --organic-arrow-thickness: 7px;
+  --organic-arrow-height: 25px;
+
+  &__bullets {
+    bottom: -25px;
+  }
+
+  &__bullets button {
+    width: 10px;
+    height: 10px;
+    background: #a4acc4;
+  }
+
+  &__bullets .awssld__bullets--active {
+    background: #037FFF;
+  }
+}
