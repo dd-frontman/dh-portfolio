@@ -7,7 +7,6 @@ import React from 'react';
 import AwesomeSlider from 'react-awesome-slider';
 import 'react-awesome-slider/dist/styles.css';
 import '../styles/_image-slider.scss';
-import night from '../img/slider-img/night.jpg';
 import green from '../img/slider-img/green.jpg';
 import barbell from '../img/slider-img/barbell.jpg';
 import hills from '../img/slider-img/hills.jpg';
@@ -19,7 +18,6 @@ function ImageSlider() {
     return (
         <AwesomeSlider>
             <div data-src={barbell} />
-            <div data-src={night} />
             <div data-src={green} />
             <div data-src={hills} />
             <div data-src={hackathon} />
