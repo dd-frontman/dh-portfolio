@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/dh-portfolio/static/css/main.3ea87f09.chunk.css",
-    "main.js": "/dh-portfolio/static/js/main.2510db12.chunk.js",
-    "main.js.map": "/dh-portfolio/static/js/main.2510db12.chunk.js.map",
-    "runtime-main.js": "/dh-portfolio/static/js/runtime-main.f8f348df.js",
-    "runtime-main.js.map": "/dh-portfolio/static/js/runtime-main.f8f348df.js.map",
-    "static/css/2.6e05d2e0.chunk.css": "/dh-portfolio/static/css/2.6e05d2e0.chunk.css",
-    "static/js/2.aa22947a.chunk.js": "/dh-portfolio/static/js/2.aa22947a.chunk.js",
-    "static/js/2.aa22947a.chunk.js.map": "/dh-portfolio/static/js/2.aa22947a.chunk.js.map",
-    "static/js/3.e122070f.chunk.js": "/dh-portfolio/static/js/3.e122070f.chunk.js",
-    "static/js/3.e122070f.chunk.js.map": "/dh-portfolio/static/js/3.e122070f.chunk.js.map",
+    "main.css": "/dh-portfolio/static/css/main.bacedabd.chunk.css",
+    "main.js": "/dh-portfolio/static/js/main.8c2463bc.chunk.js",
+    "main.js.map": "/dh-portfolio/static/js/main.8c2463bc.chunk.js.map",
+    "runtime-main.js": "/dh-portfolio/static/js/runtime-main.945ead97.js",
+    "runtime-main.js.map": "/dh-portfolio/static/js/runtime-main.945ead97.js.map",
+    "static/css/2.3fe4142c.chunk.css": "/dh-portfolio/static/css/2.3fe4142c.chunk.css",
+    "static/js/2.aabdeb42.chunk.js": "/dh-portfolio/static/js/2.aabdeb42.chunk.js",
+    "static/js/2.aabdeb42.chunk.js.map": "/dh-portfolio/static/js/2.aabdeb42.chunk.js.map",
+    "static/js/3.114af4e5.chunk.js": "/dh-portfolio/static/js/3.114af4e5.chunk.js",
+    "static/js/3.114af4e5.chunk.js.map": "/dh-portfolio/static/js/3.114af4e5.chunk.js.map",
     "index.html": "/dh-portfolio/index.html",
-    "static/css/2.6e05d2e0.chunk.css.map": "/dh-portfolio/static/css/2.6e05d2e0.chunk.css.map",
-    "static/css/main.3ea87f09.chunk.css.map": "/dh-portfolio/static/css/main.3ea87f09.chunk.css.map",
-    "static/js/2.aa22947a.chunk.js.LICENSE.txt": "/dh-portfolio/static/js/2.aa22947a.chunk.js.LICENSE.txt",
+    "static/css/2.3fe4142c.chunk.css.map": "/dh-portfolio/static/css/2.3fe4142c.chunk.css.map",
+    "static/css/main.bacedabd.chunk.css.map": "/dh-portfolio/static/css/main.bacedabd.chunk.css.map",
+    "static/js/2.aabdeb42.chunk.js.LICENSE.txt": "/dh-portfolio/static/js/2.aabdeb42.chunk.js.LICENSE.txt",
     "static/media/avatar.60fef8d5.jpg": "/dh-portfolio/static/media/avatar.60fef8d5.jpg",
     "static/media/barbell.6c73af04.jpg": "/dh-portfolio/static/media/barbell.6c73af04.jpg",
     "static/media/green.11d2091d.jpg": "/dh-portfolio/static/media/green.11d2091d.jpg",
@@ -23,10 +23,10 @@
     "static/media/Хаустов Денис.5e0e666b.pdf": "/dh-portfolio/static/media/Хаустов Денис.5e0e666b.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.f8f348df.js",
-    "static/css/2.6e05d2e0.chunk.css",
-    "static/js/2.aa22947a.chunk.js",
-    "static/css/main.3ea87f09.chunk.css",
-    "static/js/main.2510db12.chunk.js"
+    "static/js/runtime-main.945ead97.js",
+    "static/css/2.3fe4142c.chunk.css",
+    "static/js/2.aabdeb42.chunk.js",
+    "static/css/main.bacedabd.chunk.css",
+    "static/js/main.8c2463bc.chunk.js"
   ]
 }
