@@ -1,12 +1,11 @@
 /*
 * button
-* @author den-dev97 Khaustov D. khausden@gmail.com
+* @author dd-frontman
 * 01.03.2021
 */
 import React from 'react';
 import {AwesomeButton} from "react-awesome-button";
 import AwesomeButtonStyles from "react-awesome-button/src/styles/styles.scss";
-import resume from "./Хаустов Денис.pdf";
 
 
 function Button() {
@@ -14,7 +13,6 @@ function Button() {
         <AwesomeButton
             cssModule={AwesomeButtonStyles}
             type="primary"
-            href={resume}
             target="_blank"
         >
             Посмотреть полное резюме

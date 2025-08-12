@@ -1,6 +1,6 @@
 /*
 * nav-bar
-* @author den-dev97 Khaustov D. khausden@gmail.com
+* @author dd-frontman
 * 26.02.2021
 */
 import React from "react";

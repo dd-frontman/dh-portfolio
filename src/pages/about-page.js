@@ -1,6 +1,6 @@
 /*
 * about page
-* @author den-dev97 Khaustov D. khausden@gmail.com
+* @author dd-frontman
 * 27.02.2021
 */
 import React from "react";

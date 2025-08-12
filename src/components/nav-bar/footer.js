@@ -1,6 +1,6 @@
 /*
 * Footer
-* @author den-dev97 Khaustov D. khausden@gmail.com
+* @author dd-frontman
 * 27.02.2021
 */
 
